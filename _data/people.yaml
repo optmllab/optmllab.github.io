@@ -1,0 +1,44 @@
+
+
+Faculty:
+  -  name: Martin Takac
+     web: 
+       Homepage: http://mtakac.com
+     img: Takac.jpg  
+     origin: SR
+           
+  -  name: Bin 
+     img: missing.jpeg
+     
+
+
+Postdocs:
+  - name: Ruben
+    img: missing.jpeg
+
+ 
+
+Master Students:
+  - name: Shahd Hamad Ghanem Alshamsi 
+    img: Shahd_AlShamsi.JPG
+    web:
+       Linkedin: https://www.linkedin.com/in/shahd-alshamsi/
+    researchInterests: Reinforcement learning, analysis of marked temporal point processes, interpretable models
+    origin: XX
+
+  - name: Wong Yu Kang
+    img: Wong_Yu_Kang.JPG
+    web:
+       Linkedin: https://www.linkedin.com/in/wongyukang/
+    researchInterests: reinforcement learning in game application and robotics
+    advisor: Martin Takac 
+    origin: XX
+
+
+Visiting Researchers:
+  - name: Alexander Beznosikov
+    img: missing.jpeg
+
+
+  - name: Abdurakhmon Sadiev
+    img: missing.jpeg

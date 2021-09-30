@@ -1,0 +1,73 @@
+---
+layout: default
+title: Home
+---
+
+
+ 
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <main class="hoc container clear"> 
+    <!-- main body -->
+    <!-- ################################################################################################ -->
+ 		
+		
+	 {% for persontype in site.data.people %}
+		<section>
+		
+		
+			
+		  <article class="one_quarter first">
+			<h6 class="heading font-x2">{{persontype[0]}}</h6>
+			<!--<footer><a class="btn" href="#">CCCC</a></footer>-->
+		  </article>
+		  <div class="three_quarter">
+			<ul class="nospace group">
+				
+			  {% for element in persontype[1] %}
+				  <li class="one_quarter btmspace-30">
+					  <img src="/people/{{ element.img}}"/>
+					  
+					  
+					<h6 class="heading">{{ element.name  }}</h6>
+					<p><b>
+         Research interests:</b> {{ element.researchInterests }}</p>
+				  
+				  {% for web in element.web %}
+				     <a target="_blank" href="{{web[1]}}">{{web[0]}}</a>
+				  {% endfor %}
+				  </li>
+				  
+			  {% endfor %}
+			  
+			  <!--
+			  <li class="one_half btmspace-30"><a href="#"><i class="icon btmspace-30 fas fa-car-crash"></i></a>
+				<h6 class="heading">Lacus sit amet arcu porta</h6>
+				<p>Tempus aenean purus enim euismod nec scelerisque a fringilla et mauris morbi at sapien non enim blandit interdum.</p>
+			  </li>
+			  <li class="one_half first"><a href="#"><i class="icon btmspace-30 fas fa-charging-station"></i></a>
+				<h6 class="heading">Morbi posuere phasellus ante</h6>
+				<p>Phasellus a risus cras vel odio donec ornare morbi odio in non magna vel diam rutrum elementum aliquam eget nunc.</p>
+			  </li>
+			  <li class="one_half last"><a href="#"><i class="icon btmspace-30 fas fa-eye-dropper"></i></a>
+				<h6 class="heading">Vestibulum vehicula neque et</h6>
+				<p>Ornare congue lacus nisi pharetra nisl a pharetra urna metus vel nunc nulla nunc metus tempor vitae consectetuer.</p>
+			  </li>
+			  -->
+			  
+			</ul>
+		  </div>
+		</section>
+		<div class="clear"></div>
+    {% endfor %}
+    <!-- ################################################################################################ -->
+    <!-- / main body -->
+    
+  </main>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+ 
