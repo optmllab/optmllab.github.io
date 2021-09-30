@@ -3,7 +3,7 @@
 Faculty:
   -  name: Martin Takac
      web: 
-       Homepage: http://mtakac.com
+       Personal: http://mtakac.com
      img: Takac.jpg  
      origin: SR
            
@@ -33,6 +33,19 @@ Master Students:
     researchInterests: reinforcement learning in game application and robotics
     advisor: Martin Takac 
     origin: XX
+
+
+  - name: Nicolás Cuadrado
+    img: NicolasCuadrado.jpeg
+    web:
+       Personal: https://nicolascuadrado.com
+       Linkedin: https://www.linkedin.com/in/nicolascuadrado/
+    researchInterests: microgrids, smart grids, energy management systems, reinforcement learning, federated learning
+    advisor: Martin Takac 
+    origin: XX
+
+
+
 
 
 Visiting Researchers:
