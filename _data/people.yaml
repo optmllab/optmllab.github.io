@@ -28,7 +28,7 @@ Postdocs:
     img: DmitryKamzolov.jpeg
     web:
        Google scholar: https://scholar.google.com/citations?user=CAq74XAAAAAJ
-    researchInterests: Optimization
+    researchInterests: optimization
     advisor: Martin Takac 
     origin: XX
 
@@ -44,7 +44,7 @@ PhD Students:
        Personal: https://coral.ise.lehigh.edu/zhs310/
        Google scholar: https://scholar.google.com/citations?user=zOp8rvkAAAAJ&hl=en
        Linkedin: https://www.linkedin.com/in/zhengmartinshi/       
-    researchInterests: Deep Learning, Reinforcement Learning and Optimization for Machine Learning
+    researchInterests: deep learning, reinforcement learning and optimization for machine learning
     advisor: Martin Takac 
     origin: XX
 
@@ -59,7 +59,7 @@ Master Students:
     img: Shahd_AlShamsi.jpg
     web:
        Linkedin: https://www.linkedin.com/in/shahd-alshamsi/
-    researchInterests: Reinforcement learning, analysis of marked temporal point processes, interpretable models
+    researchInterests: reinforcement learning, analysis of marked temporal point processes, interpretable models
     origin: XX
 
   - name: Wong Yu Kang
@@ -85,7 +85,7 @@ Master Students:
     img: Steven_Phong_Hoang.jpg
     web:
        Linkedin: https://www.linkedin.com/in/stevenhoang22/
-    researchInterests: Reinforcement Learning, Generative Adversarial Networks, Agent-Based Models, and Recommendation Systems
+    researchInterests: reinforcement Learning, Generative Adversarial Networks, Agent-Based Models, and Recommendation Systems
     advisor: Martin Takac 
     origin: XX
 
