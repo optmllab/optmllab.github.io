@@ -4,17 +4,53 @@ Faculty:
   -  name: Martin Takac
      web: 
        Personal: http://mtakac.com
+       Google scholar: https://scholar.google.com/citations?user=qKQD-2cAAAAJ&hl=en
      img: Takac.jpg  
      origin: SR
+     researchInterests: design and analysis of algorithms for machine learning, applications of ML, optimization, HPC
            
-  -  name: Bin 
-     img: missing.jpeg
+  -  name: Bin Gu
+     img: Bin_Gu.jpeg
+     web: 
+       Personal: https://mbzuai.ac.ae/pages/bin-gu/
+       Google scholar: https://scholar.google.com/citations?user=Vo8OgCgAAAAJ&hl=en&oi=ao
      
 
 
+
+
+
 Postdocs:
-  - name: Ruben
-    img: missing.jpeg
+  - name: Ruben Solozabal
+    img: Ruben_Solozabal.jpeg
+
+  - name: Dmitry Kamzolov 
+    img: DmitryKamzolov.jpeg
+    web:
+       Google scholar: https://scholar.google.com/citations?user=CAq74XAAAAAJ
+    researchInterests: Optimization
+    advisor: Martin Takac 
+    origin: XX
+
+
+
+
+
+
+PhD Students:
+  - name: Zheng Shi
+    img: zheng_shi.jpeg
+    web:
+       Personal: https://coral.ise.lehigh.edu/zhs310/
+       Google scholar: https://scholar.google.com/citations?user=zOp8rvkAAAAJ&hl=en
+       Linkedin: https://www.linkedin.com/in/zhengmartinshi/       
+    researchInterests: Deep Learning, Reinforcement Learning and Optimization for Machine Learning
+    advisor: Martin Takac 
+    origin: XX
+
+
+
+
 
  
 
@@ -45,13 +81,31 @@ Master Students:
     origin: XX
 
 
+  - name: Steven Phong Hoang
+    img: Steven_Phong_Hoang.jpg
+    web:
+       Linkedin: https://www.linkedin.com/in/stevenhoang22/
+    researchInterests: Reinforcement Learning, Generative Adversarial Networks, Agent-Based Models, and Recommendation Systems
+    advisor: Martin Takac 
+    origin: XX
+
+ 
+
+  
 
 
 
 Visiting Researchers:
   - name: Alexander Beznosikov
-    img: missing.jpeg
+    img: Alexander_Beznosikov.png
+    web:
+       Personal: https://anbeznosikov.github.io/
+       Google scholar: https://scholar.google.com/citations?hl=ru&user=hVVJR-sAAAAJ
 
 
   - name: Abdurakhmon Sadiev
     img: missing.jpeg
+    web:
+       Google scholar: https://scholar.google.com/citations?user=R-xZRIAAAAAJ
+
+
