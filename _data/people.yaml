@@ -113,7 +113,13 @@ Master Students:
   - name: Klea Ziu
     img: missing.jpeg
   
-
+  - name: Roberto Alejandro Gutiérrez Guillén
+    img: Alejandro_Gutierrez.jpg
+    web:
+       Linkedin: https://www.linkedin.com/in/rgtzgn/
+    researchInterests: Reinforcement Learning, GANs
+    advisor: Martin Takac 
+    origin: MX
 
 
 Visiting Researchers:
