@@ -22,7 +22,13 @@ Faculty:
 
 Postdocs:
   - name: Ruben Solozabal
-    img: Ruben_Solozabal.jpeg
+    img: Ruben_Solozabal.jpg
+    web:
+       Google scholar: https://scholar.google.es/citations?user=IEXX2rYAAAAJ
+       Linkedin: https://www.linkedin.com/in/ruben-solozabal
+    researchInterests: reinforcement learning, deep learning
+    advisor: Martin Takac
+    origin: ES
 
   - name: Dmitry Kamzolov 
     img: DmitryKamzolov.jpeg
