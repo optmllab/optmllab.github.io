@@ -9,15 +9,7 @@ Faculty:
      origin: SR
      researchInterests: design and analysis of algorithms for machine learning, applications of ML, optimization, HPC
            
-  -  name: Bin Gu
-     img: Bin_Gu.jpeg
-     web: 
-       Personal: https://mbzuai.ac.ae/pages/bin-gu/
-       Google scholar: https://scholar.google.com/citations?user=Vo8OgCgAAAAJ&hl=en&oi=ao
-     
-
-
-
+ 
 
 
 Postdocs:
@@ -107,14 +99,7 @@ Master Students:
  
  
  
-  - name: Khawla Yousif Obaid Salim Alzaabi
-    img: missing.jpeg
-
- 
- 
-  - name: Farshed Abdukhakimov
-    img: missing.jpeg
-
+  
   - name: Klea Ziu
     img: klea_ziu.jpg
     advisor: Martin Takac 

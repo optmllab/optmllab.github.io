@@ -4,6 +4,7 @@ title: Home
 ---
 
 
+
  
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
@@ -14,7 +15,30 @@ title: Home
     <!-- ################################################################################################ -->
  		
 		
-	 {% for persontype in site.data.people %}
+	 {% for persontype in site.data.people_martin %}
+     {% assign lst = persontype[1] %}
+     {% assign people = lst %}
+
+		{% for persontype2 in site.data.people_bin %}
+		
+			 {% if persontype[0] == persontype2[0] %}
+				  {% assign lst2 = persontype2[1] %}
+				  
+				  
+				  {% if lst2 | size > 0 %} 
+					{% assign people = lst | concat: lst2  %}
+
+				  {% endif %}
+				  
+				  
+				  
+				  
+
+			 {% endif %}
+		
+
+		{% endfor %}
+
 		<section>
 		
 		
@@ -26,7 +50,9 @@ title: Home
 		  <div class="three_quarter">
 			<ul class="nospace group">
 				
-			  {% for element in persontype[1] %}
+				{% assign peoplesorted = people | sort: 'name' %}
+				
+			  {% for element in peoplesorted    %}
 				  <li class="one_quarter btmspace-30">
 					  <img src="/people/{{ element.img}}"/>
 					  
