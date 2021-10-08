@@ -31,6 +31,27 @@ Postdocs:
     origin: XX
 
 
+Visiting Researchers:
+  - name: Alexander Beznosikov
+    img: Alexander_Beznosikov.png
+    web:
+       Personal: https://anbeznosikov.github.io/
+       Google scholar: https://scholar.google.com/citations?hl=ru&user=hVVJR-sAAAAJ
+
+
+  - name: Abdurakhmon Sadiev
+    img: missing.jpeg
+    web:
+       Google scholar: https://scholar.google.com/citations?user=R-xZRIAAAAAJ
+
+
+  - name: Prof. Alexander Gasnikov
+    img: alexander_gasnikov.jpg
+    web:
+       Personal: https://www.hse.ru/en/org/persons/49503846
+       Google scholar: https://scholar.google.com/citations?user=AmeE8qkAAAAJ
+
+
 
 
 
@@ -122,17 +143,5 @@ Master Students:
     advisor: Martin Takac 
     origin: XX
 
-Visiting Researchers:
-  - name: Alexander Beznosikov
-    img: Alexander_Beznosikov.png
-    web:
-       Personal: https://anbeznosikov.github.io/
-       Google scholar: https://scholar.google.com/citations?hl=ru&user=hVVJR-sAAAAJ
-
-
-  - name: Abdurakhmon Sadiev
-    img: missing.jpeg
-    web:
-       Google scholar: https://scholar.google.com/citations?user=R-xZRIAAAAAJ
 
 
