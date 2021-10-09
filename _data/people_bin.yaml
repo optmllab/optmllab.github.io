@@ -14,18 +14,18 @@ Faculty:
 
 
 Postdocs:
+
   - name: Kun Song
-    img: missing.jpeg
- 
-
-
+    img: kunsong.jpg
+    web:
+       Google scholar: https://scholar.google.com/citations?hl=en&user=LcpLMPMAAAAJ
+    researchInterests: Distance metric learning, Large scale data clustering
+    advisor: Bin Gu
+    origin: CN
 
 
 
 PhD Students:
-
-
- 
 
  
 
