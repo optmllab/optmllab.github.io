@@ -55,7 +55,6 @@ Visiting Researchers:
 
 
 
-
 PhD Students:
   - name: Zheng Shi
     img: zheng_shi.jpeg
@@ -67,10 +66,16 @@ PhD Students:
     advisor: Martin Takac 
     origin: XX
 
+  - name: Aliakbar Abdurahimov
+    img: aliakbar_abdurahimov.jpg
+    web:
+       Linkedin: https://www.linkedin.com/mwlite/in/aliakbar-abdurahimov-ab1331185      
+    researchInterests: Optimization, Applied Machine Learning, Discrete Math
+    advisor: Martin Takac 
+    origin: XX
 
- 
 
- 
+
 
 Master Students:
   - name: Shahd Hamad Ghanem Alshamsi 
@@ -116,10 +121,6 @@ Master Students:
     researchInterests: reinforcement Learning, federated learning
     advisor: Martin Takac 
     origin: XX
-
- 
- 
- 
   
   - name: Klea Ziu
     img: klea_ziu.jpg
