@@ -7,7 +7,7 @@ Faculty:
        Google scholar: https://scholar.google.com/citations?user=qKQD-2cAAAAJ&hl=en
      img: Takac.jpg  
      origin: SR
-     researchInterests: design and analysis of algorithms for machine learning, applications of ML, optimization, HPC
+     researchInterests: Design and analysis of algorithms for Machine Learning, applications of ML, Optimization, HPC
            
  
 
@@ -18,7 +18,7 @@ Postdocs:
     web:
        Google scholar: https://scholar.google.es/citations?user=IEXX2rYAAAAJ
        Linkedin: https://www.linkedin.com/in/ruben-solozabal
-    researchInterests: reinforcement learning, deep learning
+    researchInterests: Reinforcement Learning, Deep Learning
     advisor: Martin Takac
     origin: ES
 
@@ -26,7 +26,7 @@ Postdocs:
     img: DmitryKamzolov.jpeg
     web:
        Google scholar: https://scholar.google.com/citations?user=CAq74XAAAAAJ
-    researchInterests: optimization
+    researchInterests: Optimization
     advisor: Martin Takac 
     origin: XX
 
@@ -62,7 +62,7 @@ PhD Students:
        Personal: https://coral.ise.lehigh.edu/zhs310/
        Google scholar: https://scholar.google.com/citations?user=zOp8rvkAAAAJ&hl=en
        Linkedin: https://www.linkedin.com/in/zhengmartinshi/       
-    researchInterests: deep learning, reinforcement learning and optimization for machine learning
+    researchInterests: Deep Learning, Reinforcement Learning and Optimization for Machine Learning
     advisor: Martin Takac 
     origin: XX
 
@@ -82,14 +82,14 @@ Master Students:
     img: Shahd_AlShamsi.jpg
     web:
        Linkedin: https://www.linkedin.com/in/shahd-alshamsi/
-    researchInterests: reinforcement learning, analysis of marked temporal point processes, interpretable models
+    researchInterests: Reinforcement Learning, analysis of marked temporal point processes, Interpretable models
     origin: XX
 
   - name: Wong Yu Kang
     img: Wong_Yu_Kang.JPG
     web:
        Linkedin: https://www.linkedin.com/in/wongyukang/
-    researchInterests: reinforcement learning in game application and robotics
+    researchInterests: Reinforcement Learning in game application and robotics
     advisor: Martin Takac 
     origin: XX
 
@@ -99,7 +99,7 @@ Master Students:
     web:
        Personal: https://nicolascuadrado.com
        Linkedin: https://www.linkedin.com/in/nicolascuadrado/
-    researchInterests: microgrids, smart grids, energy management systems, reinforcement learning, federated learning
+    researchInterests: Microgrids, Smart Grids, Energy Management Systems, Reinforcement Learning, Federated Learning
     advisor: Martin Takac 
     origin: XX
 
@@ -108,7 +108,7 @@ Master Students:
     img: Steven_Phong_Hoang.jpg
     web:
        Linkedin: https://www.linkedin.com/in/stevenhoang22/
-    researchInterests: reinforcement Learning, Generative Adversarial Networks, Agent-Based Models, and Recommendation Systems
+    researchInterests: Reinforcement Learning, Generative Adversarial Networks, Agent-Based Models, and Recommendation Systems
     advisor: Martin Takac 
     origin: XX
 
@@ -118,12 +118,13 @@ Master Students:
     img: Talal_Abdullah_Fadhl_Algumaei.jpg
     web:
        Linkedin: https://www.linkedin.com/in/talal-al-gumeai-a2ba78203/
-    researchInterests: reinforcement Learning, federated learning
+    researchInterests: Reinforcement Learning, Federated Learning
     advisor: Martin Takac 
     origin: XX
   
   - name: Klea Ziu
     img: klea_ziu.jpg
+    researchInterests: Machine Learning, Deep Learning, Reinforcement Learning, Optimization
     advisor: Martin Takac 
     origin: XX
   
@@ -168,3 +169,12 @@ Master Students:
     researchInterests: Deep learning, Reinforcement learning
     advisor: Martin Takac 
     origin: UAE
+
+
+  - name: Brahim Erraji
+    img: brahim_erraji.jpeg
+    researchInterests: Large scale optimization, Distributed computing for ML models.
+    advisor: Martin Takac 
+    origin: XX
+
+    
