@@ -7,7 +7,7 @@ Faculty:
        Google scholar: https://scholar.google.com/citations?user=qKQD-2cAAAAJ&hl=en
      img: Takac.jpg  
      origin: SR
-     researchInterests: Design and analysis of algorithms for Machine Learning, applications of ML, Optimization, HPC
+     researchInterests: Design and Analysis of algorithms for Machine Learning, Applications of ML, Optimization, HPC
            
  
 
@@ -173,8 +173,10 @@ Master Students:
 
   - name: Brahim Erraji
     img: brahim_erraji.jpeg
+    web:
+       Linkedin: https://www.linkedin.com/in/brahim-erraji-b2a4801ba/
     researchInterests: Large scale optimization, Distributed computing for ML models.
     advisor: Martin Takac 
-    origin: XX
+    origin: Morocco
 
     
