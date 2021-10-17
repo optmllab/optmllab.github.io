@@ -21,6 +21,8 @@ Postdocs:
     researchInterests: Reinforcement Learning, Deep Learning
     advisor: Martin Takac
     origin: ES
+    from: 2021/09
+    to: present
 
   - name: Dmitry Kamzolov 
     img: DmitryKamzolov.jpeg
@@ -29,6 +31,8 @@ Postdocs:
     researchInterests: Optimization
     advisor: Martin Takac 
     origin: XX
+    from: 2021/10
+    to: present
 
 
 Visiting Researchers:
@@ -37,12 +41,16 @@ Visiting Researchers:
     web:
        Personal: https://anbeznosikov.github.io/
        Google scholar: https://scholar.google.com/citations?hl=ru&user=hVVJR-sAAAAJ
+    from: 2021/10
+    to: 2021/12
 
 
   - name: Abdurakhmon Sadiev
     img: missing.jpeg
     web:
        Google scholar: https://scholar.google.com/citations?user=R-xZRIAAAAAJ
+    from: 2021/10
+    to: 2021/12
 
 
   - name: Prof. Alexander Gasnikov
@@ -50,6 +58,8 @@ Visiting Researchers:
     web:
        Personal: https://www.hse.ru/en/org/persons/49503846
        Google scholar: https://scholar.google.com/citations?user=AmeE8qkAAAAJ
+    from: 2021/10
+    to: 2021/12
 
 
 
@@ -73,6 +83,8 @@ PhD Students:
     researchInterests: Optimization, Applied Machine Learning, Discrete Math
     advisor: Martin Takac 
     origin: XX
+    from: 2021/09
+    to: present
 
 
 
@@ -84,6 +96,8 @@ Master Students:
        Linkedin: https://www.linkedin.com/in/shahd-alshamsi/
     researchInterests: Reinforcement Learning, analysis of marked temporal point processes, Interpretable models
     origin: XX
+    from: 2021/09
+    to: present
 
   - name: Wong Yu Kang
     img: Wong_Yu_Kang.JPG
@@ -92,6 +106,8 @@ Master Students:
     researchInterests: Reinforcement Learning in game application and robotics
     advisor: Martin Takac 
     origin: XX
+    from: 2021/09
+    to: present
 
 
   - name: Nicolás Cuadrado
@@ -102,6 +118,8 @@ Master Students:
     researchInterests: Microgrids, Smart Grids, Energy Management Systems, Reinforcement Learning, Federated Learning
     advisor: Martin Takac 
     origin: XX
+    from: 2021/09
+    to: present
 
 
   - name: Steven Phong Hoang
@@ -111,7 +129,8 @@ Master Students:
     researchInterests: Reinforcement Learning, Generative Adversarial Networks, Agent-Based Models, and Recommendation Systems
     advisor: Martin Takac 
     origin: XX
-
+    from: 2021/09
+    to: present
 
 
   - name: Talal Abdullah Fadhl Algumaei
@@ -121,12 +140,16 @@ Master Students:
     researchInterests: Reinforcement Learning, Federated Learning
     advisor: Martin Takac 
     origin: XX
+    from: 2021/09
+    to: present
   
   - name: Klea Ziu
     img: klea_ziu.jpg
     researchInterests: Machine Learning, Deep Learning, Reinforcement Learning, Optimization
     advisor: Martin Takac 
     origin: XX
+    from: 2021/09
+    to: present
   
   
   - name: Roberto Alejandro Gutiérrez Guillén
@@ -136,6 +159,8 @@ Master Students:
     researchInterests: Reinforcement Learning, GANs
     advisor: Martin Takac 
     origin: MX
+    from: 2021/09
+    to: present
 
   - name: Aigerim Zhumabayeva
     img: Aigerim_Zhumabayeva.jpeg
@@ -144,6 +169,8 @@ Master Students:
     researchInterests: Optimization, Reinforcement Learning
     advisor: Martin Takac 
     origin: XX
+    from: 2021/09
+    to: present
 
   - name: Khalid Al Nahyan
     img: khalid_al_nahyan.jpg
@@ -152,12 +179,16 @@ Master Students:
     researchInterests: Machine Learning, Mechanical Engineering
     advisor: Martin Takac 
     origin: UAE
+    from: 2021/09
+    to: present
 
   - name: Eman Al Suradi 
     img: eman_al_suradi.jpg
     researchInterests: Reinforcement learning & Robotics
     advisor: Martin Takac 
     origin: Jordan
+    from: 2021/09
+    to: present
 
 
 
@@ -169,6 +200,8 @@ Master Students:
     researchInterests: Deep learning, Reinforcement learning
     advisor: Martin Takac 
     origin: UAE
+    from: 2021/09
+    to: present
 
 
   - name: Brahim Erraji
@@ -178,5 +211,7 @@ Master Students:
     researchInterests: Large scale optimization, Distributed computing for ML models.
     advisor: Martin Takac 
     origin: Morocco
+    from: 2021/09
+    to: present
 
     
