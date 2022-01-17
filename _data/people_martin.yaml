@@ -61,6 +61,12 @@ Visiting Researchers:
     from: 2021/10
     to: 2021/12
 
+  - name: Dr. Darina Dvinskikh
+    img:  dasha.jpeg
+    web:
+       Google scholar: https://scholar.google.com/citations?user=5ILnTRsAAAAJ&hl=en
+    from: 2021/10
+    to: 2021/12
 
 
 
@@ -79,16 +85,7 @@ PhD Students:
     to: present
 
 
-  - name: Aliakbar Abdurahimov
-    img: aliakbar_abdurahimov.jpg
-    web:
-       Linkedin: https://www.linkedin.com/mwlite/in/aliakbar-abdurahimov-ab1331185      
-    researchInterests: Optimization, Applied Machine Learning, Discrete Math
-    advisor: Martin Takac 
-    origin: XX
-    from: 2021/09
-    to: present
-
+ 
 
 
 
