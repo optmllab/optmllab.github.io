@@ -62,7 +62,7 @@ Visiting Researchers:
     to: 2021/12
 
   - name: Dr. Darina Dvinskikh
-    img:  dasha.jpeg
+    img:  missing.jpeg
     web:
        Google scholar: https://scholar.google.com/citations?user=5ILnTRsAAAAJ&hl=en
     from: 2021/10
@@ -72,6 +72,7 @@ Visiting Researchers:
     img: Slavomir_Hanzely.jpg
     web:
        Google scholar: https://scholar.google.com/citations?user=ksqGMoEAAAAJ
+    researchInterests: Stochastic Optimization, Federated Learning, Personalization
     from: 2022/01
     to: present
 
