@@ -85,11 +85,31 @@ PhD Students:
     to: present
 
 
+  - name: Zangir Iklassov
+    img: Zangir_Iklassov.jpg
+    web:
+       Google scholar: https://scholar.google.com/citations?user=zOp8rvkAAAAJ&hl=en
+       Linkedin: https://www.linkedin.com/in/zangir-iklassov-81b516b5/      
+    researchInterests: Deep Learning and Reinforcement Learning
+    origin: XX
+    from: 2021
+    to: present
  
 
 
-
 Master Students:
+
+  - name: Dmitrii Medvedev
+    img: Dmitrii Medvedev.jpeg
+    web:
+       Linkedin: https://www.linkedin.com/in/dmedvedev09/
+    researchInterests: Machine Learning, Oil & Gas industry
+    origin: RU
+    from: 2021/01
+    to: present
+
+
+
   - name: Shahd Hamad Ghanem Alshamsi 
     img: Shahd_AlShamsi.jpg
     web:
