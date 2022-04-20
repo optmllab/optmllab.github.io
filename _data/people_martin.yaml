@@ -36,6 +36,26 @@ Postdocs:
 
 
 Visiting Researchers:
+
+  - name: Dmitry Pasechnyuk
+    img: Dmitry_Pasechnyuk.jpg
+    web:
+       Personal: http://dmivilensky.ru
+       Google scholar: https://scholar.google.ru/citations?user=yUfa6X8AAAAJ
+    from: 2022/03
+    to: present
+
+
+  - name: Alexander Rogozin
+    img: alexander_rogozin.jpg
+    web:
+       Google scholar: https://scholar.google.com/citations?user=sEjyzkgAAAAJ&hl
+       Linkedin: https://www.linkedin.com/in/alexander-rogozin-38a3a4194/
+    researchInterests: Optimization, Distributed optimization
+    from: 2022/01
+    to: present
+
+
   - name: Alexander Beznosikov
     img: Alexander_Beznosikov.png
     web:
