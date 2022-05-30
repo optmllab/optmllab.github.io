@@ -82,7 +82,7 @@ Visiting Researchers:
     to: 2021/12
 
   - name: Dr. Darina Dvinskikh
-    img:  missing.jpeg
+    img:  dasha.jpeg
     web:
        Google scholar: https://scholar.google.com/citations?user=5ILnTRsAAAAJ&hl=en
     from: 2021/10
@@ -143,18 +143,7 @@ Master Students:
     origin: XX
     from: 2021/09
     to: present
-
-  - name: Wong Yu Kang
-    img: Wong_Yu_Kang.JPG
-    web:
-       Linkedin: https://www.linkedin.com/in/wongyukang/
-    researchInterests: Reinforcement Learning in game application and robotics
-    advisor: Martin Takac 
-    origin: XX
-    from: 2021/09
-    to: present
-
-
+ 
   - name: Nicolás Cuadrado
     img: NicolasCuadrado.jpeg
     web:
