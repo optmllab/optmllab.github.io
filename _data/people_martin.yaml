@@ -121,6 +121,15 @@ PhD Students:
     to: present
  
 
+  - name: Artem Agafonov
+    img: Artem_Agafonov.jpg
+    web:
+      Google scholar: https://scholar.google.com/citations?user=FMKgTB4AAAAJ&hl=ru
+    researchInterests: Optimization for Machine Learning, Deep Learning
+    advisor: Martin Takac
+    from: 2019
+    origin: Russia
+    to: present
 
 Master Students:
 
