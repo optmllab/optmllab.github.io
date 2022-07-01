@@ -117,7 +117,17 @@ PhD Students:
     origin: China
     from: 2022/06
     to: present
- 
+
+  - name: Abdulla Almansoori
+    img: Abdulla Almansoori.jpg
+    web:
+       Google scholar: https://scholar.google.com/citations?hl=en&user=J7Qf4ZsAAAAJ
+       Linkedin: www.linkedin.com/in/abdullaalmansoori     
+    researchInterests:  Optimization, Deep Learning
+    advisor: Martin Takac 
+    origin: UAE
+    from: 2021
+    to: 2025 (expected)
 
   - name: Zangir Iklassov
     img: Zangir_Iklassov.jpg
