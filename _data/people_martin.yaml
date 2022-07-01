@@ -133,7 +133,14 @@ Master Students:
     from: 2021/01
     to: present
 
-
+  - name: Farshed Abdukhakimov
+    img: missing.jpeg
+    web:
+       Google scholar: https://scholar.google.com/citations?user=HxEcEAMAAAAJ&hl=en
+    researchInterests: Optimization for Machine Learning, Deep Neural Networks
+    origin: Uzbekistan
+    from: 2021/08
+    to: present
 
   - name: Shahd Hamad Ghanem Alshamsi 
     img: Shahd_AlShamsi.jpg
