@@ -111,6 +111,14 @@ PhD Students:
     to: present
 
 
+  - name: Gongxu Luo
+    img: Gongxu_Luo.png  
+    researchInterests: Deep Learning, AI for Science, Graph Neural Network
+    origin: China
+    from: 2022/06
+    to: present
+ 
+
   - name: Zangir Iklassov
     img: Zangir_Iklassov.jpg
     web:
@@ -119,7 +127,6 @@ PhD Students:
     origin: XX
     from: 2021
     to: present
- 
 
   - name: Artem Agafonov
     img: Artem_Agafonov.jpg
