@@ -159,6 +159,15 @@ Master Students:
     to: present
 
 
+  - name: Li Yunxiang
+    img: Li_Yunxiang.jpg
+    web:
+       Linkedin: https://www.linkedin.com/in/yunxiang-li-001b32151/
+    researchInterests: Reinforcement Learning
+    origin: China
+    from: 2022/07
+    to: present
+
   - name: Dmitrii Medvedev
     img: Dmitrii Medvedev.jpeg
     web:
