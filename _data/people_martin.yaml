@@ -9,7 +9,17 @@ Faculty:
      origin: SR
      researchInterests: Design and Analysis of algorithms for Machine Learning, Applications of ML, Optimization, HPC
            
- 
+
+  - name: Samuel Horvath
+    img: Samuel_Horvath.jpeg
+    web:
+       Personal: https://samuelhorvath.github.io/
+       Google scholar: https://scholar.google.com/citations?user=k252J7kAAAAJ
+       Linkedin: https://www.linkedin.com/in/samuel-horvath
+    researchInterests: Federated Learning, Distributed Optimization, Deep Learning
+    origin: Slovakia
+    from: 2022/07
+    to: present
 
 
 Postdocs:
