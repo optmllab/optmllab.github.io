@@ -107,6 +107,9 @@ Visiting Researchers:
     to: present
 
 
+Hanshuo Zhai
+ 
+
 PhD Students:
   - name: Zheng Shi
     img: zheng_shi.jpeg
@@ -127,6 +130,18 @@ PhD Students:
     origin: China
     from: 2022/06
     to: present
+
+
+  - name: Hanshuo Zhai
+    img: Hanshuo_Zhai.jpg
+    web:
+       Linkedin: https://www.linkedin.com/in/%E6%B1%89%E7%A1%95-%E7%BF%9F-08a134245/   
+    researchInterests:  Optimization for Machine Learning and Federated Learning
+    advisor: Martin Takac 
+    origin: China
+    from: 2022
+
+
 
   - name: Abdulla Almansoori
     img: Abdulla_Almansoori.jpg
