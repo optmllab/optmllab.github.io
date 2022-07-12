@@ -175,6 +175,15 @@ PhD Students:
 Master Students:
 
 
+  - name: Yanlin Wu
+    img: Yanlin_Wu.jpg
+    researchInterests: Optimization, Federated Learning
+    advisor: Martin Takac
+    origin: China
+    from: 2022/07
+    to: present
+
+
   - name: Yuhan Chen
     img: Yuhan_Chen.jpeg
     researchInterests: Optimization, Federated Learning
