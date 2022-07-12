@@ -175,9 +175,18 @@ PhD Students:
 Master Students:
 
 
+  - name: Yuhan Chen
+    img: Yuhan_Chen.jpeg
+    researchInterests: Optimization, Federated Learning
+    advisor: Martin Takac
+    origin: China
+    from: 2022/07
+    to: present
+
   - name: Chulu Xiang
     img: Chulu_Xiang.jpeg
     researchInterests: Optimization
+    advisor: Martin Takac
     origin: China
     from: 2022/06
     to: present
