@@ -47,6 +47,18 @@ Postdocs:
 
 Visiting Researchers:
 
+  - name: Petr Ostroukhov
+    img: PetrOstroukhov.jpeg
+    web:
+        
+       Google scholar: https://scholar.google.com/citations?user=-exQ4_wAAAAJ&hl=vi
+    from: 2022/010
+    to: present
+
+
+
+
+
   - name: Dmitry Pasechnyuk
     img: Dmitry_Pasechnyuk.jpg
     web:
@@ -111,13 +123,7 @@ Visiting Researchers:
 PhD Students:
 
 
-  - name: Gongxu Luo
-    img: Gongxu_Luo.png  
-    researchInterests: Deep Learning, AI for Science, Graph Neural Network
-    origin: China
-    from: 2022/06
-    to: present
-
+ 
 
   - name: Hanshuo Zhai
     img: Hanshuo_Zhai.jpg
@@ -164,6 +170,9 @@ PhD Students:
 Master Students:
 
 
+
+
+
   - name: Yanlin Wu
     img: Yanlin_Wu.jpg
     researchInterests: Optimization, Federated Learning
@@ -173,13 +182,7 @@ Master Students:
     to: present
 
 
-  - name: Yuhan Chen
-    img: Yuhan_Chen.jpeg
-    researchInterests: Optimization, Federated Learning
-    advisor: Martin Takac
-    origin: China
-    from: 2022/07
-    to: present
+
 
   - name: Chulu Xiang
     img: Chulu_Xiang.jpeg
@@ -238,16 +241,7 @@ Master Students:
     to: present
 
 
-  - name: Steven Phong Hoang
-    img: Steven_Phong_Hoang.jpg
-    web:
-       Linkedin: https://www.linkedin.com/in/stevenhoang22/
-    researchInterests: Reinforcement Learning, Generative Adversarial Networks, Agent-Based Models, and Recommendation Systems
-    advisor: Martin Takac 
-    origin: XX
-    from: 2021/09
-    to: present
-
+ 
 
   - name: Talal Abdullah Fadhl Algumaei
     img: Talal_Abdullah_Fadhl_Algumaei.jpg
