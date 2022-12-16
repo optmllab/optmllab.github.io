@@ -171,7 +171,9 @@ Master Students:
 
   - name: Salma Alrashdi 
     img: Salma_Alrashdi.jpg
-    researchInterests: Gene analysis, Machine Learnin and Deep Learning
+    web:
+       Linkedin: https://www.linkedin.com/in/salma-alrashdi-aa3929213/
+    researchInterests: Gene analysis, Machine Learning and Deep Learning
     advisor: Martin Takac
     origin: UAE
     from: 2022/09
