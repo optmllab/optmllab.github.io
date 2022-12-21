@@ -45,6 +45,17 @@ Postdocs:
     to: present
 
 
+  - name: Eduard Gorbunov 
+    img: Eduard_Gorbunov.jpg
+    web:
+       Personal: https://eduardgorbunov.github.io/
+       Google scholar: https://scholar.google.ru/citations?hl=en&authuser=2&user=QPVriwoAAAAJ
+    researchInterests: Stochastic Optimization, Distributed Optimization, Derivative-Free Optimization, Variational Inequalities
+    advisor: Martin Takac 
+    origin: RU
+    from: 2022/
+    to: present
+
 Visiting Researchers:
 
   - name: Petr Ostroukhov
@@ -171,6 +182,7 @@ Master Students:
 
 
   - name: Baketah Alrashdi
+    img: missing.jpeg
     web:
        Linkedin: https://www.linkedin.com/in/baketah-alrashdi-90b63a177/
     researchInterests: Machine Learning, Physics
