@@ -28,7 +28,8 @@ Postdocs:
     web:
        Google scholar: https://scholar.google.es/citations?user=IEXX2rYAAAAJ
        Linkedin: https://www.linkedin.com/in/ruben-solozabal
-    researchInterests: Reinforcement Learning, Deep Learning
+    researchInterests: Reinforcement Learning, Machine Learning in bioinformatics
+
     advisor: Martin Takac
     origin: ES
     from: 2021/09
@@ -58,15 +59,23 @@ Postdocs:
 
 Visiting Researchers:
 
+
+  - name: Konstantin Mishchenko
+    img: Konstantin_Mishchenko.jpg
+    web:
+       Personal: http://konstmish.com/
+       Google scholar: https://scholar.google.com/citations?user=Z8Y8nhQAAAAJ&hl=en
+    researchInterests: Optimization, Federated Learning, Deep Learning
+    from: 2022/12
+    to: 2022/12
+
+
   - name: Petr Ostroukhov
     img: PetrOstroukhov.jpeg
     web:
-        
        Google scholar: https://scholar.google.com/citations?user=-exQ4_wAAAAJ&hl=vi
     from: 2022/010
     to: present
-
-
 
 
 
