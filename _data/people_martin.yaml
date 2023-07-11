@@ -60,6 +60,16 @@ Postdocs:
 Visiting Researchers:
 
 
+  - name: Nikita Yudin
+    img: NikitaYudin.png
+    web:
+       Linkedin: https://www.linkedin.com/in/nikita-yudin-8a1807191/
+    researchInterests: Optimization, High-Order Optimization, Distributed Optimization, Machine Learning, Reinforcement Learning
+    from: 2023/04
+    to: 2023/07
+    origin: Russia
+
+
   - name: Konstantin Mishchenko
     img: Konstantin_Mishchenko.jpg
     web:
