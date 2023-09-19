@@ -1,5 +1,3 @@
-
-
 Faculty:
   -  name: Martin Takac
      web: 
@@ -161,7 +159,7 @@ PhD Students:
     from: 2023/09
     to: present
 
- - name: Nicolás Cuadrado
+  - name: Nicolás Cuadrado
     img: NicolasCuadrado.jpeg
     web:
        Personal: https://nicolascuadrado.com
