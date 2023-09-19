@@ -153,18 +153,35 @@ Visiting Researchers:
 PhD Students:
 
 
- 
-
-  - name: Hanshuo Zhai
-    img: Hanshuo_Zhai.jpg
-    web:
-       Linkedin: https://www.linkedin.com/in/%E6%B1%89%E7%A1%95-%E7%BF%9F-08a134245/   
-    researchInterests:  Optimization for Machine Learning and Federated Learning
+  - name: Klea Ziu
+    img: klea_ziu.jpg
+    researchInterests: Machine Learning, Deep Learning, Reinforcement Learning, Optimization
     advisor: Martin Takac 
-    origin: China
-    from: 2022
+    origin: XX
+    from: 2023/09
     to: present
 
+ - name: Nicolás Cuadrado
+    img: NicolasCuadrado.jpeg
+    web:
+       Personal: https://nicolascuadrado.com
+       Linkedin: https://www.linkedin.com/in/nicolascuadrado/
+    researchInterests: Microgrids, Smart Grids, Energy Management Systems, Reinforcement Learning, Federated Learning
+    advisor: Martin Takac 
+    origin: XX
+    from: 2023/09
+    to: present 
+
+  
+  - name: Khalid Al Nahyan
+    img: khalid_al_nahyan.jpg
+    web:
+       Linkedin: http://linkedin.com/in/khalid-khalid-8826411a4
+    researchInterests: Machine Learning, Mechanical Engineering
+    advisor: Martin Takac 
+    origin: UAE
+    from: 2023/09
+    to: present
 
 
   - name: Abdulla Almansoori
@@ -196,6 +213,13 @@ PhD Students:
     from: 2019
     origin: Russia
     to: present
+
+
+
+
+
+
+
 
 Master Students:
 
@@ -260,7 +284,8 @@ Master Students:
     researchInterests: Machine Learning, Oil & Gas industry
     origin: RU
     from: 2021/01
-    to: present
+    to: 2022/12
+    next_pos: ADNOC
 
   - name: Farshed Abdukhakimov
     img: missing.jpeg
@@ -269,7 +294,7 @@ Master Students:
     researchInterests: Optimization for Machine Learning, Deep Neural Networks
     origin: Uzbekistan
     from: 2021/08
-    to: present
+    to: 2023/05
 
   - name: Shahd Hamad Ghanem Alshamsi 
     img: Shahd_AlShamsi.jpg
@@ -278,7 +303,7 @@ Master Students:
     researchInterests: Reinforcement Learning, analysis of marked temporal point processes, Interpretable models
     origin: XX
     from: 2021/09
-    to: present
+    to: 2022/12
  
   - name: Nicolás Cuadrado
     img: NicolasCuadrado.jpeg
@@ -289,7 +314,7 @@ Master Students:
     advisor: Martin Takac 
     origin: XX
     from: 2021/09
-    to: present
+    to: 2023/05
 
 
  
@@ -302,7 +327,7 @@ Master Students:
     advisor: Martin Takac 
     origin: XX
     from: 2021/09
-    to: present
+    to: 2023/05
   
   - name: Klea Ziu
     img: klea_ziu.jpg
@@ -310,7 +335,7 @@ Master Students:
     advisor: Martin Takac 
     origin: XX
     from: 2021/09
-    to: present
+    to: 2023/05
   
   
   - name: Roberto Alejandro Gutiérrez Guillén
@@ -321,7 +346,7 @@ Master Students:
     advisor: Martin Takac 
     origin: MX
     from: 2021/09
-    to: present
+    to: 2023/05
 
   - name: Aigerim Zhumabayeva
     img: Aigerim_Zhumabayeva.jpeg
@@ -331,7 +356,7 @@ Master Students:
     advisor: Martin Takac 
     origin: XX
     from: 2021/09
-    to: present
+    to: 2023/05
 
   - name: Khalid Al Nahyan
     img: khalid_al_nahyan.jpg
@@ -341,7 +366,7 @@ Master Students:
     advisor: Martin Takac 
     origin: UAE
     from: 2021/09
-    to: present
+    to: 2023/05
 
    
 
@@ -355,6 +380,7 @@ Master Students:
     advisor: Martin Takac 
     origin: Morocco
     from: 2021/09
-    to: present
+    to: 2023/05
+    next_pos: PhD student at INRIA
 
     
