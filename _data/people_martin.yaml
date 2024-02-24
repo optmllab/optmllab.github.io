@@ -78,6 +78,14 @@ Visiting Researchers:
     to: 2022/12
 
 
+  - name: Eva Starykh
+    img: Eva_Starykh.jpg
+    web:
+       Linkedin: https://www.linkedin.com/in/eva-starykh/
+    researchInterests: Machine Learning, Deep Learning, Applications of ML in Physics
+    from: 2023/09
+    to: present
+
   - name: Petr Ostroukhov
     img: PetrOstroukhov.jpeg
     web:
