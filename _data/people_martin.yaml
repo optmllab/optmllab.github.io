@@ -165,11 +165,25 @@ PhD Students:
        Personal: https://nicolascuadrado.com
        Linkedin: https://www.linkedin.com/in/nicolascuadrado/
     researchInterests: Microgrids, Smart Grids, Energy Management Systems, Reinforcement Learning, Federated Learning
-    advisor: Martin Takac 
+    advisor: Samuel Horvath & Martin Takac 
     origin: XX
     from: 2023/09
     to: present 
 
+  
+  
+  - name: Mohannad Takrouri
+    img: MohannadTakrouri.jpeg
+    web:
+       Linkedin: https://www.linkedin.com/in/mohannad-takrouri-277a8268
+    researchInterests: Microgrids, Smart Grids, Energy Management Systems, Reinforcement Learning 
+    advisor: Martin Takac 
+    origin: XX
+    from: 2023/09
+    to: present   
+  
+  
+  
   
   - name: Khalid Al Nahyan
     img: khalid_al_nahyan.jpg
@@ -188,7 +202,7 @@ PhD Students:
        Google scholar: https://scholar.google.com/citations?hl=en&user=J7Qf4ZsAAAAJ
        Linkedin: https://www.linkedin.com/in/abdullaalmansoori     
     researchInterests:  Optimization, Deep Learning
-    advisor: Martin Takac 
+    advisor: Samuel Horvath & Martin Takac 
     origin: UAE
     from: 2021
     to: 2025 (expected)
@@ -208,7 +222,7 @@ PhD Students:
       Google scholar: https://scholar.google.com/citations?user=FMKgTB4AAAAJ&hl=ru
     researchInterests: Optimization for Machine Learning, Deep Learning
     advisor: Martin Takac
-    from: 2019
+    from: 2022
     origin: Russia
     to: present
 
@@ -220,6 +234,31 @@ PhD Students:
 
 
 Master Students:
+
+
+
+ 
+
+  - name: Maitha Abdelhakeem Yousif Almushtaghil Alnaqbi
+    img: missing.jpeg
+    web:
+       Linkedin: NA
+    researchInterests: Computer Vision
+    advisor: Martin Takac
+    origin: UAE
+    from: 2023/09
+    to: present
+
+  - name: Aisha Abduljabbar Ahmed Al-Musalami
+    img: missing.jpeg
+    web:
+       Linkedin: NA
+    researchInterests: Computer Vision
+    advisor: Martin Takac
+    origin: UAE
+    from: 2023/09
+    to: present
+
 
 
   - name: Baketah Alrashdi
