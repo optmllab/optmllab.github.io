@@ -243,8 +243,15 @@ PhD Students:
 
 Master Students:
 
-
-
+  - name: Farkhad Akimov
+    img: missing.jpeg
+    web:
+       Linkedin: NA
+    researchInterests: Computer Vision
+    advisor: Martin Takac
+    origin: Kazachstan
+    from: 2023/09
+    to: present
  
 
   - name: Maitha Abdelhakeem Yousif Almushtaghil Alnaqbi
