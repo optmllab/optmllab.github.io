@@ -158,6 +158,15 @@ Visiting Researchers:
 
 PhD Students:
 
+  - name: Abduragim Shtanchaev
+    img: abduragim_shtanchaev.png
+    researchInterests: Machine Learning, Deep Learning, Reinforcement Learning, Generative AI 
+    advisor: Martin Takac 
+    origin: XX
+    from: 2023/09
+    to: present
+
+
 
   - name: Klea Ziu
     img: klea_ziu.jpg
