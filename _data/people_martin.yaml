@@ -58,6 +58,7 @@ Postdocs:
 Visiting Researchers:
 
 
+
   - name: Nikita Yudin
     img: NikitaYudin.png
     web:
@@ -84,7 +85,7 @@ Visiting Researchers:
        Linkedin: https://www.linkedin.com/in/eva-starykh/
     researchInterests: Machine Learning, Deep Learning, Applications of ML in Physics
     from: 2023/09
-    to: present
+    to: 2024/08
 
   - name: Petr Ostroukhov
     img: PetrOstroukhov.jpeg
@@ -157,6 +158,24 @@ Visiting Researchers:
  
 
 PhD Students:
+
+  - name: Farshed Abdukhakimov
+    img: Farshed_Abdukhakimov.png
+    web:
+       Google scholar: https://scholar.google.com/citations?user=HxEcEAMAAAAJ&hl=en
+    researchInterests: Optimization for Machine Learning, Deep Neural Networks
+    origin: Uzbekistan
+    from: 2024/08
+    to: present
+
+
+  - name: Eva Starykh
+    img: Eva_Starykh.jpg
+    web:
+       Linkedin: https://www.linkedin.com/in/eva-starykh/
+    researchInterests: Machine Learning, Deep Learning, Applications of ML in Physics
+    from: 2023/09
+    to: 2024/08
 
   - name: Abduragim Shtanchaev
     img: abduragim_shtanchaev.png
@@ -253,7 +272,7 @@ PhD Students:
 Master Students:
 
   - name: Farkhad Akimov
-    img: missing.jpeg
+    img: Farkhad_Akimov.jpeg
     web:
        Linkedin: NA
     researchInterests: Computer Vision
@@ -349,7 +368,7 @@ Master Students:
     next_pos: ADNOC
 
   - name: Farshed Abdukhakimov
-    img: missing.jpeg
+    img: Farshed_Abdukhakimov.png
     web:
        Google scholar: https://scholar.google.com/citations?user=HxEcEAMAAAAJ&hl=en
     researchInterests: Optimization for Machine Learning, Deep Neural Networks
