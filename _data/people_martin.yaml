@@ -41,7 +41,21 @@ Postdocs:
     advisor: Martin Takac 
     origin: XX
     from: 2021/10
+    to: 2024/10
+
+
+  - name: Nazarii Tupista
+    img: NazariiTupista.jpeg
+    web:
+       Google scholar: https://scholar.google.com/citations?user=5siCuX4AAAAJ
+    researchInterests: Optimization
+    advisor: Martin Takac 
+    origin: XX
+    from: 2022/10
     to: present
+
+
+
 
 
   - name: Eduard Gorbunov 
@@ -54,6 +68,21 @@ Postdocs:
     origin: RU
     from: 2022/
     to: present
+
+  - name: Grigory Koroteev
+    img: grigoryKoroteev.jpeg
+    web:
+       Google scholar: https://scholar.google.com/citations?user=TjYyQ8EAAAAJ&hl=en
+    researchInterests:  
+    advisor: Martin Takac 
+    origin: RU
+    from: 2024/
+    to: present
+
+
+
+
+
 
 Visiting Researchers:
 
