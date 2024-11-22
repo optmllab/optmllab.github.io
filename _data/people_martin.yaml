@@ -20,6 +20,19 @@ Faculty:
     to: present
 
 
+ResearchScientist:
+
+  - name: Nazarii Tupista
+    img: NazariiTupista.jpeg
+    web:
+       Google scholar: https://scholar.google.com/citations?user=5siCuX4AAAAJ
+    researchInterests: Optimization
+    advisor: Martin Takac 
+    origin: XX
+    from: 2022/10
+    to: present
+ 
+
 Postdocs:
   - name: Ruben Solozabal
     img: Ruben_Solozabal.jpg
@@ -44,15 +57,6 @@ Postdocs:
     to: 2024/10
 
 
-  - name: Nazarii Tupista
-    img: NazariiTupista.jpeg
-    web:
-       Google scholar: https://scholar.google.com/citations?user=5siCuX4AAAAJ
-    researchInterests: Optimization
-    advisor: Martin Takac 
-    origin: XX
-    from: 2022/10
-    to: present
 
 
 
@@ -187,6 +191,23 @@ Visiting Researchers:
  
 
 PhD Students:
+
+
+  - name: Aidar Alimbayev
+    img: aidar.jpg
+    researchInterests:  TODO
+    origin: Kazachstan
+    from: 2024/08
+    to: present
+
+  - name:  Abdelmajid Essofi
+    img: AbdelmajidEssofi.jpeg
+    researchInterests: TODO
+    origin: Morocco
+    from: 2024/08
+    to: present
+
+
 
   - name: Farshed Abdukhakimov
     img: Farshed_Abdukhakimov.png
