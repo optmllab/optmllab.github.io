@@ -1,0 +1,269 @@
+Faculty:
+
+  - name: Samuel Horvath
+    img: Samuel_Horvath.jpeg
+    web:
+       Personal: https://samuelhorvath.github.io/
+       Google scholar: https://scholar.google.com/citations?user=k252J7kAAAAJ
+       Linkedin: https://www.linkedin.com/in/samuel-horvath
+    researchInterests: Federated Learning, Distributed Optimization, Deep Learning
+    origin: Slovakia
+    from: 2022/07
+    to: present
+
+
+ResearchScientist:
+
+ 
+
+Postdocs:
+
+
+
+
+
+
+
+
+
+
+Visiting Researchers:
+
+
+
+
+PhD Students:
+
+
+Master Students:
+
+
+
+
+
+  - name: Vladislav Ryspayev
+    img: VladislavRyspayev.JPG
+    web:
+       Linkedin: NA
+    researchInterests:  
+    advisor: Martin Takac
+    origin: Kazachstan
+    from: 2024/09
+    to: present
+
+
+  - name: Hazem  Lashen
+    img: Hazem_photo.jpg
+    web:
+       Linkedin: NA
+    researchInterests:  
+    advisor: Martin Takac
+    origin: Egypt
+    from: 2024/09
+    to: present
+
+
+  - name: Arman Bolatov
+    img: ArmanBolatov.jpeg
+    web:
+       Linkedin: NA
+    researchInterests:  
+    advisor: Martin Takac
+    origin: Kazachstan
+    from: 2024/09
+    to: present
+
+
+  - name: Farkhad Akimov
+    img: Farkhad_Akimov.jpeg
+    web:
+       Linkedin: NA
+    researchInterests: Computer Vision
+    advisor: Martin Takac
+    origin: Kazachstan
+    from: 2023/09
+    to: present
+ 
+
+  - name: Maitha Abdelhakeem Yousif Almushtaghil Alnaqbi
+    img: missing.jpeg
+    web:
+       Linkedin: NA
+    researchInterests: Computer Vision
+    advisor: Martin Takac
+    origin: UAE
+    from: 2023/09
+    to: present
+
+  - name: Aisha Abduljabbar Ahmed Al-Musalami
+    img: missing.jpeg
+    web:
+       Linkedin: NA
+    researchInterests: Computer Vision
+    advisor: Martin Takac
+    origin: UAE
+    from: 2023/09
+    to: present
+
+
+
+  - name: Baketah Alrashdi
+    img: missing.jpeg
+    web:
+       Linkedin: https://www.linkedin.com/in/baketah-alrashdi-90b63a177/
+    researchInterests: Machine Learning, Physics
+    advisor: Martin Takac
+    origin: UAE
+    from: 2022/09
+    to: present
+
+
+
+  - name: Salma Alrashdi 
+    img: Salma_Alrashdi.jpg
+    web:
+       Linkedin: https://www.linkedin.com/in/salma-alrashdi-aa3929213/
+    researchInterests: Gene analysis, Machine Learning and Deep Learning
+    advisor: Martin Takac
+    origin: UAE
+    from: 2022/09
+    to: present
+
+
+
+  - name: Yanlin Wu
+    img: Yanlin_Wu.jpg
+    researchInterests: Optimization, Federated Learning
+    advisor: Martin Takac
+    origin: China
+    from: 2022/07
+    to: present
+
+
+
+
+  - name: Chulu Xiang
+    img: Chulu_Xiang.jpeg
+    researchInterests: Optimization
+    advisor: Martin Takac
+    origin: China
+    from: 2022/06
+    to: present
+
+
+  - name: Li Yunxiang
+    img: Li_Yunxiang.jpg
+    web:
+       Linkedin: https://www.linkedin.com/in/yunxiang-li-001b32151/
+    researchInterests: Reinforcement Learning
+    origin: China
+    from: 2022/07
+    to: present
+
+  - name: Dmitrii Medvedev
+    img: Dmitrii Medvedev.jpeg
+    web:
+       Linkedin: https://www.linkedin.com/in/dmedvedev09/
+    researchInterests: Machine Learning, Oil & Gas industry
+    origin: RU
+    from: 2021/01
+    to: 2022/12
+    next_pos: ADNOC
+
+  - name: Farshed Abdukhakimov
+    img: Farshed_Abdukhakimov.png
+    web:
+       Google scholar: https://scholar.google.com/citations?user=HxEcEAMAAAAJ&hl=en
+    researchInterests: Optimization for Machine Learning, Deep Neural Networks
+    origin: Uzbekistan
+    from: 2021/08
+    to: 2023/05
+
+  - name: Shahd Hamad Ghanem Alshamsi 
+    img: Shahd_AlShamsi.jpg
+    web:
+       Linkedin: https://www.linkedin.com/in/shahd-alshamsi/
+    researchInterests: Reinforcement Learning, analysis of marked temporal point processes, Interpretable models
+    origin: XX
+    from: 2021/09
+    to: 2022/12
+ 
+  - name: Nicolás Cuadrado
+    img: NicolasCuadrado.jpeg
+    web:
+       Personal: https://nicolascuadrado.com
+       Linkedin: https://www.linkedin.com/in/nicolascuadrado/
+    researchInterests: Microgrids, Smart Grids, Energy Management Systems, Reinforcement Learning, Federated Learning
+    advisor: Martin Takac 
+    origin: XX
+    from: 2021/09
+    to: 2023/05
+
+
+ 
+
+  - name: Talal Abdullah Fadhl Algumaei
+    img: Talal_Abdullah_Fadhl_Algumaei.jpg
+    web:
+       Linkedin: https://www.linkedin.com/in/talal-al-gumeai-a2ba78203/
+    researchInterests: Reinforcement Learning, Federated Learning
+    advisor: Martin Takac 
+    origin: XX
+    from: 2021/09
+    to: 2023/05
+  
+  - name: Klea Ziu
+    img: klea_ziu.jpg
+    researchInterests: Machine Learning, Deep Learning, Reinforcement Learning, Optimization
+    advisor: Martin Takac 
+    origin: XX
+    from: 2021/09
+    to: 2023/05
+  
+  
+  - name: Roberto Alejandro Gutiérrez Guillén
+    img: Alejandro_Gutierrez.jpg
+    web:
+       Linkedin: https://www.linkedin.com/in/rgtzgn/
+    researchInterests: Reinforcement Learning, GANs
+    advisor: Martin Takac 
+    origin: MX
+    from: 2021/09
+    to: 2023/05
+
+  - name: Aigerim Zhumabayeva
+    img: Aigerim_Zhumabayeva.jpeg
+    web:
+       Linkedin: https://www.linkedin.com/in/aigerim-zhumabayeva-frm-9478a1125/
+    researchInterests: Optimization, Reinforcement Learning
+    advisor: Martin Takac 
+    origin: XX
+    from: 2021/09
+    to: 2023/05
+
+  - name: Khalid Al Nahyan
+    img: khalid_al_nahyan.jpg
+    web:
+       Linkedin: http://linkedin.com/in/khalid-khalid-8826411a4
+    researchInterests: Machine Learning, Mechanical Engineering
+    advisor: Martin Takac 
+    origin: UAE
+    from: 2021/09
+    to: 2023/05
+
+   
+
+ 
+
+  - name: Brahim Erraji
+    img: brahim_erraji.jpeg
+    web:
+       Linkedin: https://www.linkedin.com/in/brahim-erraji-b2a4801ba/
+    researchInterests: Large scale optimization, Distributed computing for ML models.
+    advisor: Martin Takac 
+    origin: Morocco
+    from: 2021/09
+    to: 2023/05
+    next_pos: PhD student at INRIA
+
+    
