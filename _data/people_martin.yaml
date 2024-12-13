@@ -92,6 +92,17 @@ Visiting Researchers:
 
 
 
+  - name: Aleksandr Lobanov
+    img:  
+    web:
+       Linkedin:  
+    researchInterests: Optimization 
+    from: 2024/11
+    to: 2024/12
+    origin: Russia
+
+
+
   - name: Nikita Yudin
     img: NikitaYudin.png
     web:
@@ -320,6 +331,60 @@ PhD Students:
 
 
 Master Students:
+
+
+
+
+  - name: Semyon Semenov
+    img: Semyon_Semenov.jpg
+    web:
+       Linkedin: NA
+    researchInterests:  
+    advisor: Martin Takac
+    origin: Russia
+    from: 2024/09
+    to: present
+
+
+
+
+
+
+
+
+
+  - name: Vladislav Ryspayev
+    img: VladislavRyspayev.JPG
+    web:
+       Linkedin: NA
+    researchInterests:  
+    advisor: Martin Takac
+    origin: Kazachstan
+    from: 2024/09
+    to: present
+
+
+  - name: Hazem  Lashen
+    img: Hazem_photo.jpg
+    web:
+       Linkedin: NA
+    researchInterests:  
+    advisor: Martin Takac
+    origin: Egypt
+    from: 2024/09
+    to: present
+
+
+  - name: Arman Bolatov
+    img: ArmanBolatov.jpeg
+    web:
+       Linkedin: NA
+    researchInterests:  
+    advisor: Martin Takac
+    origin: Kazachstan
+    from: 2024/09
+    to: present
+
 
   - name: Farkhad Akimov
     img: Farkhad_Akimov.jpeg
