@@ -59,8 +59,8 @@ Postdocs:
     researchInterests: Stochastic Optimization, Distributed Optimization, Derivative-Free Optimization, Variational Inequalities
     advisor: Martin Takac 
     origin: RU
-    from: 2022/
-    to: present
+    from: 2022
+    to: 2025/07
 
   - name: Grigory Koroteev
     img: grigoryKoroteev.jpeg
@@ -69,8 +69,8 @@ Postdocs:
     researchInterests:  
     advisor: Martin Takac 
     origin: RU
-    from: 2024/
-    to: present
+    from: 2024
+    to: 2025
 
 
 
@@ -81,7 +81,13 @@ Postdocs:
     researchInterests: Deep Learning and Reinforcement Learning
     origin: XX
     from: 2025
-    to: present
+    to: 2025 
+
+  - name: Velibor Bojkovic
+    img: velibor.jpeg
+    origin: XX
+    from: 2025
+    to: 2025 
 
 
   - name: Arip Asadulaev
