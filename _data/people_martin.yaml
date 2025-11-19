@@ -74,6 +74,22 @@ Postdocs:
 
 
 
+  - name: Zangir Iklassov
+    img: Zangir_Iklassov.jpg
+    web:
+       Linkedin: https://www.linkedin.com/in/zangir-iklassov-81b516b5/      
+    researchInterests: Deep Learning and Reinforcement Learning
+    origin: XX
+    from: 2025
+    to: present
+
+
+  - name: Arip Asadulaev
+    img: AripAsadulaev.jpeg
+    origin: XX
+    from: 2025
+    to: present
+
 
 
 
@@ -300,7 +316,7 @@ PhD Students:
     researchInterests: Deep Learning and Reinforcement Learning
     origin: XX
     from: 2021
-    to: present
+    to: 2024
 
   - name: Artem Agafonov
     img: Artem_Agafonov.jpg
