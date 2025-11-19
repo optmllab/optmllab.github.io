@@ -98,7 +98,7 @@ Postdocs:
     web:
        Google scholar: https://scholar.google.com/citations?user=ksqGMoEAAAAJ
     researchInterests: Stochastic Optimization, Federated Learning, Personalization
-    from: 2024 # not sure ???
+    from: 2023 # not sure ???
     to: present
 
 
@@ -489,6 +489,15 @@ Master Students:
 
 
 
+  - name: Albert Baichorov 
+    img: missing.jpg
+    web:
+       Linkedin: NA
+    researchInterests:  
+    advisor: Martin Takac
+    origin: Russia
+    from: 2024/09
+    to: present
 
 
 
