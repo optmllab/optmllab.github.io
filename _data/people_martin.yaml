@@ -11,6 +11,39 @@ Faculty:
 
 ResearchScientist:
 
+
+ 
+
+
+
+  - name: Kirill Dubovikov
+    img: KirillDubovikov.jpeg
+    origin: XX
+    from: 2025
+    to: present
+
+  - name: Omar El Mansouri
+    img: missing.jpg
+    origin: XX
+    from: 2025
+    to: present
+
+  - name: Aya El Mir
+    img: AyaElMir.jpeg
+    origin: XX
+    from: 2025
+    to: present
+
+
+
+
+  - name: Alexander Yukhimchuk 
+    img:  AlexanderYukhimchuk.jpeg
+    from: 2025
+    to: 2025
+    origin: Russia
+
+
   - name: Nazarii Tupista
     img: NazariiTupista.jpeg
     web:
@@ -20,9 +53,55 @@ ResearchScientist:
     origin: XX
     from: 2022/10
     to: present
- 
 
 Postdocs:
+
+
+  - name: Artem Agafonov
+    img: Artem_Agafonov.jpg
+    web:
+      Google scholar: https://scholar.google.com/citations?user=FMKgTB4AAAAJ&hl=ru
+    researchInterests: Optimization for Machine Learning, Deep Learning
+    advisor: Martin Takac
+    from: 2026
+    origin: Russia
+    to: ---
+
+  - name: Sayantan Choudhury
+    img: sayantan.png
+    origin: XX
+    from: 2025/09
+    to: present
+
+  - name: Yanda Li
+    img: YandaLi.png
+    origin: XX
+    from: 2025/09
+    to: present
+
+
+  - name: Hachem Madmoun
+    img: HachemMadmoun.jpeg
+    origin: XX
+    from: 2025/09
+    to: present
+
+
+  - name: Arip Asadulaev
+    img: AripAsadulaev.jpeg
+    origin: XX
+    from: 2025
+    to: present
+
+  - name: Slavomír Hanzely
+    img: Slavomir_Hanzely.jpg
+    web:
+       Google scholar: https://scholar.google.com/citations?user=ksqGMoEAAAAJ
+    researchInterests: Stochastic Optimization, Federated Learning, Personalization
+    from: 2024 # not sure ???
+    to: present
+
+
   - name: Ruben Solozabal
     img: Ruben_Solozabal.jpg
     web:
@@ -90,11 +169,6 @@ Postdocs:
     to: 2025 
 
 
-  - name: Arip Asadulaev
-    img: AripAsadulaev.jpeg
-    origin: XX
-    from: 2025
-    to: present
 
 
 
@@ -103,8 +177,45 @@ Visiting Researchers:
 
 
 
+  - name: Vladmir Solodkin
+    img:  missing.jpg
+    from: 2025
+    to: 2025
+    origin: Russia
+
+
+  - name: Andrii Semenov
+    img:  missing.jpg
+    from: 2025
+    to: 2025
+    origin: Russia
+
+
+  - name: Andrey Veprikov 
+    img:  AndreyVeprikov.jpeg
+    from: 2025
+    to: 2025
+    origin: Russia
+
+
+  - name: Maksim Bobrin
+    img:  missing.jpg
+    from: 2025
+    to: 2025
+    origin: Russia
+
+
+
+
+
+
+
+
+
+
+
   - name: Aleksandr Lobanov
-    img:  
+    img:  AleksandrLobanov.jpg
     web:
        Linkedin:  
     researchInterests: Optimization 
@@ -157,7 +268,7 @@ Visiting Researchers:
        Personal: http://dmivilensky.ru
        Google scholar: https://scholar.google.ru/citations?user=yUfa6X8AAAAJ
     from: 2022/03
-    to: present
+    to: 2025/08
 
 
   - name: Alexander Rogozin
@@ -208,11 +319,20 @@ Visiting Researchers:
        Google scholar: https://scholar.google.com/citations?user=ksqGMoEAAAAJ
     researchInterests: Stochastic Optimization, Federated Learning, Personalization
     from: 2022/01
-    to: present
+    to: 2022
 
  
 
 PhD Students:
+
+
+  - name: Dmitry Pasechnyuk
+    img: Dmitry_Pasechnyuk.jpg
+    web:
+       Personal: http://dmivilensky.ru
+       Google scholar: https://scholar.google.ru/citations?user=yUfa6X8AAAAJ
+    from: 2025/09
+    to: present
 
 
   - name: Aidar Alimbayev
@@ -313,7 +433,20 @@ PhD Students:
     advisor: Samuel Horvath & Martin Takac 
     origin: UAE
     from: 2021
-    to: 2025 (expected)
+    to: 2026 (expected)
+
+
+
+  - name: Artem Agafonov
+    img: Artem_Agafonov.jpg
+    web:
+      Google scholar: https://scholar.google.com/citations?user=FMKgTB4AAAAJ&hl=ru
+    researchInterests: Optimization for Machine Learning, Deep Learning
+    advisor: Martin Takac
+    from: 2022
+    origin: Russia
+    to: 2025/12
+
 
   - name: Zangir Iklassov
     img: Zangir_Iklassov.jpg
@@ -324,24 +457,38 @@ PhD Students:
     from: 2021
     to: 2024
 
-  - name: Artem Agafonov
-    img: Artem_Agafonov.jpg
-    web:
-      Google scholar: https://scholar.google.com/citations?user=FMKgTB4AAAAJ&hl=ru
-    researchInterests: Optimization for Machine Learning, Deep Learning
-    advisor: Martin Takac
-    from: 2022
-    origin: Russia
-    to: present
-
-
-
-
 
 
 
 
 Master Students:
+
+
+  - name: Viktor Kovalchuk
+    img: missing.jpg
+    web:
+       Linkedin: NA
+    researchInterests:  
+    advisor: Martin Takac
+    origin: Kazachstan
+    from: 2025/09
+    to: present
+
+
+
+  - name:  Meir Roketlishvili
+    img: missing.jpg
+    web:
+       Linkedin: NA
+    researchInterests:  
+    advisor: Martin Takac
+    origin: Russia
+    from: 2024/09
+    to: present
+
+
+
+
 
 
 
@@ -405,7 +552,7 @@ Master Students:
     advisor: Martin Takac
     origin: Kazachstan
     from: 2023/09
-    to: present
+    to: 2025/05
  
 
   - name: Maitha Abdelhakeem Yousif Almushtaghil Alnaqbi
@@ -416,7 +563,7 @@ Master Students:
     advisor: Martin Takac
     origin: UAE
     from: 2023/09
-    to: present
+    to: 2025/05
 
   - name: Aisha Abduljabbar Ahmed Al-Musalami
     img: missing.jpeg
@@ -426,7 +573,7 @@ Master Students:
     advisor: Martin Takac
     origin: UAE
     from: 2023/09
-    to: present
+    to: 2025/05
 
 
 
@@ -438,7 +585,7 @@ Master Students:
     advisor: Martin Takac
     origin: UAE
     from: 2022/09
-    to: present
+    to: 2024/05
 
 
 
@@ -450,7 +597,7 @@ Master Students:
     advisor: Martin Takac
     origin: UAE
     from: 2022/09
-    to: present
+    to: 2024/05
 
 
 
