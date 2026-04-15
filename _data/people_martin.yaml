@@ -57,6 +57,17 @@ ResearchScientist:
 Postdocs:
 
 
+
+
+  - name: Deepak Kumar
+    img: DeepakKumar.jpg
+    researchInterests: Material science
+    advisor: Martin Takac
+    from: 2026
+    origin: India
+    to: ---
+
+
   - name: Artem Agafonov
     img: Artem_Agafonov.jpg
     web:
@@ -483,7 +494,7 @@ Master Students:
     researchInterests:  
     advisor: Martin Takac
     origin: Russia
-    from: 2024/09
+    from: 2025/09
     to: present
 
 
